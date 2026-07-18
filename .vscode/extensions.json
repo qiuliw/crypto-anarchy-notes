@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-vscode-remote.remote-ssh",
+        "tamasfe.even-better-toml",
+        "pkief.material-icon-theme",
+        "azemoh.one-monokai",
+        "seyyedkhandon.firacode"
+    ]
+}
