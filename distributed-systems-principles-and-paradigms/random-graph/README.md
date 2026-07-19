@@ -84,7 +84,7 @@ if PULL 模式 {
 环境要求：Go 1.22 或更高版本，无第三方依赖。
 
 ```bash
-cd distributed-systems/random-graph
+cd distributed-systems-principles-and-paradigms/random-graph
 go run . \
   -nodes 100 \
   -view 10 \
