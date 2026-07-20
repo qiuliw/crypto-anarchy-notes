@@ -1,0 +1,22 @@
+
+*** These modified files were found in JOE when it aborted on Mon Apr 25 17:12:43 2022
+*** JOE was aborted by UNIX signal 15
+
+*** File '(Unnamed)'
+rabbit-consumer.py
+rabbit-producer.py
+rabbit-consumer.py
+rabbit-consumer.py
+rabbit-producer.py
+rabbit-consumer.py.py
+rabbit-consumer.py
+rpc1.py
+cs.py
+cs.py
+rpc1.py
+
+*** File '* Startup Log *'
+Processing '/etc/joe/jmacsrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/jmacsrc

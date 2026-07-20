@@ -1,0 +1,12 @@
+OK       = '1'
+ADD      = '2'
+APPEND   = '3'
+GETVALUE = '4'
+CREATE   = '5'
+STOP     = '6'
+HOSTS    = ''
+PORTS   = 50004
+PORTC1  = 50053
+PORTC2  = 50054
+HOSTC1  = ''
+HOSTC2  = ''
