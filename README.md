@@ -2,4 +2,4 @@
 
 ## 记录
 
-### [分布式系统](distributed-systems-principles-and-paradigms/README.md)
+### [分布式系统](distributed-systems/README.md)
